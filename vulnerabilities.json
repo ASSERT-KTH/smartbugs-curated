@@ -17,6 +17,9 @@
                 ],
                 "category": "access_control"
             }
+        ],
+        "contract_names": [
+            "FibonacciBalance"
         ]
     },
     {
@@ -31,6 +34,9 @@
                 ],
                 "category": "access_control"
             }
+        ],
+        "contract_names": [
+            "Wallet"
         ]
     },
     {
@@ -45,6 +51,9 @@
                 ],
                 "category": "access_control"
             }
+        ],
+        "contract_names": [
+            "Missing"
         ]
     },
     {
@@ -59,6 +68,9 @@
                 ],
                 "category": "access_control"
             }
+        ],
+        "contract_names": [
+            "Missing"
         ]
     },
     {
@@ -73,6 +85,9 @@
                 ],
                 "category": "access_control"
             }
+        ],
+        "contract_names": [
+            "Missing"
         ]
     },
     {
@@ -87,6 +102,9 @@
                 ],
                 "category": "access_control"
             }
+        ],
+        "contract_names": [
+            "Map"
         ]
     },
     {
@@ -101,6 +119,9 @@
                 ],
                 "category": "access_control"
             }
+        ],
+        "contract_names": [
+            "MultiOwnable"
         ]
     },
     {
@@ -115,6 +136,9 @@
                 ],
                 "category": "access_control"
             }
+        ],
+        "contract_names": [
+            "MyContract"
         ]
     },
     {
@@ -135,6 +159,10 @@
                 ],
                 "category": "access_control"
             }
+        ],
+        "contract_names": [
+            "WalletLibrary",
+            "Wallet"
         ]
     },
     {
@@ -155,6 +183,9 @@
                 ],
                 "category": "access_control"
             }
+        ],
+        "contract_names": [
+            "WalletLibrary"
         ]
     },
     {
@@ -169,6 +200,9 @@
                 ],
                 "category": "access_control"
             }
+        ],
+        "contract_names": [
+            "Phishable"
         ]
     },
     {
@@ -183,6 +217,9 @@
                 ],
                 "category": "access_control"
             }
+        ],
+        "contract_names": [
+            "Proxy"
         ]
     },
     {
@@ -198,6 +235,9 @@
                 ],
                 "category": "access_control"
             }
+        ],
+        "contract_names": [
+            "Rubixi"
         ]
     },
     {
@@ -213,6 +253,9 @@
                 ],
                 "category": "access_control"
             }
+        ],
+        "contract_names": [
+            "SimpleSuicide"
         ]
     },
     {
@@ -227,6 +270,9 @@
                 ],
                 "category": "access_control"
             }
+        ],
+        "contract_names": [
+            "Unprotected"
         ]
     },
     {
@@ -241,6 +287,9 @@
                 ],
                 "category": "access_control"
             }
+        ],
+        "contract_names": [
+            "Wallet"
         ]
     },
     {
@@ -256,6 +305,9 @@
                 ],
                 "category": "access_control"
             }
+        ],
+        "contract_names": [
+            "Wallet"
         ]
     },
     {
@@ -270,6 +322,9 @@
                 ],
                 "category": "access_control"
             }
+        ],
+        "contract_names": [
+            "Wallet"
         ]
     },
     {
@@ -284,6 +339,9 @@
                 ],
                 "category": "arithmetic"
             }
+        ],
+        "contract_names": [
+            "PausableToken"
         ]
     },
     {
@@ -298,6 +356,9 @@
                 ],
                 "category": "arithmetic"
             }
+        ],
+        "contract_names": [
+            "IntegerOverflowAdd"
         ]
     },
     {
@@ -312,6 +373,9 @@
                 ],
                 "category": "arithmetic"
             }
+        ],
+        "contract_names": [
+            "Overflow"
         ]
     },
     {
@@ -326,6 +390,9 @@
                 ],
                 "category": "arithmetic"
             }
+        ],
+        "contract_names": [
+            "IntegerOverflowAdd"
         ]
     },
     {
@@ -340,6 +407,9 @@
                 ],
                 "category": "arithmetic"
             }
+        ],
+        "contract_names": [
+            "IntegerOverflowBenign1"
         ]
     },
     {
@@ -354,6 +424,9 @@
                 ],
                 "category": "arithmetic"
             }
+        ],
+        "contract_names": [
+            "IntegerOverflowMappingSym1"
         ]
     },
     {
@@ -368,6 +441,9 @@
                 ],
                 "category": "arithmetic"
             }
+        ],
+        "contract_names": [
+            "IntegerOverflowMinimal"
         ]
     },
     {
@@ -382,6 +458,9 @@
                 ],
                 "category": "arithmetic"
             }
+        ],
+        "contract_names": [
+            "IntegerOverflowMul"
         ]
     },
     {
@@ -396,6 +475,9 @@
                 ],
                 "category": "arithmetic"
             }
+        ],
+        "contract_names": [
+            "IntegerOverflowMultiTxMultiFuncFeasible"
         ]
     },
     {
@@ -410,6 +492,9 @@
                 ],
                 "category": "arithmetic"
             }
+        ],
+        "contract_names": [
+            "IntegerOverflowMultiTxOneFuncFeasible"
         ]
     },
     {
@@ -424,6 +509,9 @@
                 ],
                 "category": "arithmetic"
             }
+        ],
+        "contract_names": [
+            "Overflow_Add"
         ]
     },
     {
@@ -468,6 +556,9 @@
                 ],
                 "category": "arithmetic"
             }
+        ],
+        "contract_names": [
+            "IntegerOverflowSingleTransaction"
         ]
     },
     {
@@ -482,6 +573,9 @@
                 ],
                 "category": "arithmetic"
             }
+        ],
+        "contract_names": [
+            "TimeLock"
         ]
     },
     {
@@ -502,6 +596,9 @@
                 ],
                 "category": "arithmetic"
             }
+        ],
+        "contract_names": [
+            "Token"
         ]
     },
     {
@@ -528,6 +625,9 @@
                 ],
                 "category": "arithmetic"
             }
+        ],
+        "contract_names": [
+            "TokenSaleChallenge"
         ]
     },
     {
@@ -554,6 +654,9 @@
                 ],
                 "category": "bad_randomness"
             }
+        ],
+        "contract_names": [
+            "BlackJack"
         ]
     },
     {
@@ -598,6 +701,9 @@
                 ],
                 "category": "bad_randomness"
             }
+        ],
+        "contract_names": [
+            "Ethraffle_v4b"
         ]
     },
     {
@@ -612,6 +718,9 @@
                 ],
                 "category": "bad_randomness"
             }
+        ],
+        "contract_names": [
+            "GuessTheRandomNumberChallenge"
         ]
     },
     {
@@ -632,6 +741,9 @@
                 ],
                 "category": "bad_randomness"
             }
+        ],
+        "contract_names": [
+            "Lottery"
         ]
     },
     {
@@ -655,6 +767,9 @@
                 ],
                 "category": "bad_randomness"
             }
+        ],
+        "contract_names": [
+            "LuckyDoubler"
         ]
     },
     {
@@ -669,6 +784,9 @@
                 ],
                 "category": "bad_randomness"
             }
+        ],
+        "contract_names": [
+            "PredictTheBlockHashChallenge"
         ]
     },
     {
@@ -701,6 +819,9 @@
                 ],
                 "category": "bad_randomness"
             }
+        ],
+        "contract_names": [
+            "RandomNumberGenerator"
         ]
     },
     {
@@ -781,6 +902,9 @@
                 ],
                 "category": "bad_randomness"
             }
+        ],
+        "contract_names": [
+            "SmartBillions"
         ]
     },
     {
@@ -795,6 +919,9 @@
                 ],
                 "category": "denial_of_service"
             }
+        ],
+        "contract_names": [
+            "DosAuction"
         ]
     },
     {
@@ -811,6 +938,9 @@
                 ],
                 "category": "denial_of_service"
             }
+        ],
+        "contract_names": [
+            "DosGas"
         ]
     },
     {
@@ -829,6 +959,9 @@
                 ],
                 "category": "denial_of_service"
             }
+        ],
+        "contract_names": [
+            "DosNumber"
         ]
     },
     {
@@ -844,6 +977,9 @@
                 ],
                 "category": "denial_of_service"
             }
+        ],
+        "contract_names": [
+            "DosOneFunc"
         ]
     },
     {
@@ -864,6 +1000,9 @@
                 ],
                 "category": "denial_of_service"
             }
+        ],
+        "contract_names": [
+            "Government"
         ]
     },
     {
@@ -878,6 +1017,9 @@
                 ],
                 "category": "denial_of_service"
             }
+        ],
+        "contract_names": [
+            "Refunder"
         ]
     },
     {
@@ -898,6 +1040,9 @@
                 ],
                 "category": "front_running"
             }
+        ],
+        "contract_names": [
+            "ERC20"
         ]
     },
     {
@@ -912,6 +1057,9 @@
                 ],
                 "category": "front_running"
             }
+        ],
+        "contract_names": [
+            "FindThisHash"
         ]
     },
     {
@@ -932,6 +1080,9 @@
                 ],
                 "category": "front_running"
             }
+        ],
+        "contract_names": [
+            "EthTxOrderDependenceMinimal"
         ]
     },
     {
@@ -952,6 +1103,9 @@
                 ],
                 "category": "front_running"
             }
+        ],
+        "contract_names": [
+            "OddsAndEvens"
         ]
     },
     {
@@ -968,6 +1122,9 @@
                 ],
                 "category": "other"
             }
+        ],
+        "contract_names": [
+            "CryptoRoulette"
         ]
     },
     {
@@ -982,6 +1139,9 @@
                 ],
                 "category": "other"
             }
+        ],
+        "contract_names": [
+            "NameRegistrar"
         ]
     },
     {
@@ -996,6 +1156,9 @@
                 ],
                 "category": "other"
             }
+        ],
+        "contract_names": [
+            "OpenAddressLottery"
         ]
     },
     {
@@ -1010,6 +1173,9 @@
                 ],
                 "category": "reentrancy"
             }
+        ],
+        "contract_names": [
+            "PERSONAL_BANK"
         ]
     },
     {
@@ -1024,6 +1190,9 @@
                 ],
                 "category": "reentrancy"
             }
+        ],
+        "contract_names": [
+            "PrivateBank"
         ]
     },
     {
@@ -1038,6 +1207,9 @@
                 ],
                 "category": "reentrancy"
             }
+        ],
+        "contract_names": [
+            "ACCURAL_DEPOSIT"
         ]
     },
     {
@@ -1052,6 +1224,9 @@
                 ],
                 "category": "reentrancy"
             }
+        ],
+        "contract_names": [
+            "PRIVATE_ETH_CELL"
         ]
     },
     {
@@ -1066,6 +1241,9 @@
                 ],
                 "category": "reentrancy"
             }
+        ],
+        "contract_names": [
+            "BANK_SAFE"
         ]
     },
     {
@@ -1080,6 +1258,9 @@
                 ],
                 "category": "reentrancy"
             }
+        ],
+        "contract_names": [
+            "TokenBank"
         ]
     },
     {
@@ -1094,6 +1275,9 @@
                 ],
                 "category": "reentrancy"
             }
+        ],
+        "contract_names": [
+            "U_BANK"
         ]
     },
     {
@@ -1108,6 +1292,9 @@
                 ],
                 "category": "reentrancy"
             }
+        ],
+        "contract_names": [
+            "PrivateDeposit"
         ]
     },
     {
@@ -1122,6 +1309,9 @@
                 ],
                 "category": "reentrancy"
             }
+        ],
+        "contract_names": [
+            "W_WALLET"
         ]
     },
     {
@@ -1136,6 +1326,9 @@
                 ],
                 "category": "reentrancy"
             }
+        ],
+        "contract_names": [
+            "ETH_VAULT"
         ]
     },
     {
@@ -1150,6 +1343,9 @@
                 ],
                 "category": "reentrancy"
             }
+        ],
+        "contract_names": [
+            "X_WALLET"
         ]
     },
     {
@@ -1164,6 +1360,9 @@
                 ],
                 "category": "reentrancy"
             }
+        ],
+        "contract_names": [
+            "ETH_FUND"
         ]
     },
     {
@@ -1178,6 +1377,9 @@
                 ],
                 "category": "reentrancy"
             }
+        ],
+        "contract_names": [
+            "PENNY_BY_PENNY"
         ]
     },
     {
@@ -1192,6 +1394,9 @@
                 ],
                 "category": "reentrancy"
             }
+        ],
+        "contract_names": [
+            "DEP_BANK"
         ]
     },
     {
@@ -1206,6 +1411,9 @@
                 ],
                 "category": "reentrancy"
             }
+        ],
+        "contract_names": [
+            "Private_Bank"
         ]
     },
     {
@@ -1220,6 +1428,9 @@
                 ],
                 "category": "reentrancy"
             }
+        ],
+        "contract_names": [
+            "PrivateBank"
         ]
     },
     {
@@ -1234,6 +1445,9 @@
                 ],
                 "category": "reentrancy"
             }
+        ],
+        "contract_names": [
+            "ETH_VAULT"
         ]
     },
     {
@@ -1248,6 +1462,9 @@
                 ],
                 "category": "reentrancy"
             }
+        ],
+        "contract_names": [
+            "MONEY_BOX"
         ]
     },
     {
@@ -1262,6 +1479,9 @@
                 ],
                 "category": "reentrancy"
             }
+        ],
+        "contract_names": [
+            "WALLET"
         ]
     },
     {
@@ -1276,6 +1496,9 @@
                 ],
                 "category": "reentrancy"
             }
+        ],
+        "contract_names": [
+            "MY_BANK"
         ]
     },
     {
@@ -1290,6 +1513,9 @@
                 ],
                 "category": "reentrancy"
             }
+        ],
+        "contract_names": [
+            "EtherBank"
         ]
     },
     {
@@ -1304,6 +1530,9 @@
                 ],
                 "category": "reentrancy"
             }
+        ],
+        "contract_names": [
+            "EtherStore"
         ]
     },
     {
@@ -1318,6 +1547,9 @@
                 ],
                 "category": "reentrancy"
             }
+        ],
+        "contract_names": [
+            "ModifierEntrancy"
         ]
     },
     {
@@ -1332,6 +1564,9 @@
                 ],
                 "category": "reentrancy"
             }
+        ],
+        "contract_names": [
+            "Reentrance"
         ]
     },
     {
@@ -1346,6 +1581,9 @@
                 ],
                 "category": "reentrancy"
             }
+        ],
+        "contract_names": [
+            "Reentrancy_bonus"
         ]
     },
     {
@@ -1360,6 +1598,9 @@
                 ],
                 "category": "reentrancy"
             }
+        ],
+        "contract_names": [
+            "Reentrancy_cross_function"
         ]
     },
     {
@@ -1374,6 +1615,9 @@
                 ],
                 "category": "reentrancy"
             }
+        ],
+        "contract_names": [
+            "ReentrancyDAO"
         ]
     },
     {
@@ -1388,6 +1632,9 @@
                 ],
                 "category": "reentrancy"
             }
+        ],
+        "contract_names": [
+            "Reentrancy_insecure"
         ]
     },
     {
@@ -1402,6 +1649,9 @@
                 ],
                 "category": "reentrancy"
             }
+        ],
+        "contract_names": [
+            "Reentrance"
         ]
     },
     {
@@ -1416,6 +1666,9 @@
                 ],
                 "category": "reentrancy"
             }
+        ],
+        "contract_names": [
+            "SimpleDAO"
         ]
     },
     {
@@ -1436,6 +1689,9 @@
                 ],
                 "category": "reentrancy"
             }
+        ],
+        "contract_names": [
+            "LedgerChannel"
         ]
     },
     {
@@ -1450,6 +1706,9 @@
                 ],
                 "category": "short_addresses"
             }
+        ],
+        "contract_names": [
+            "MyToken"
         ]
     },
     {
@@ -1464,6 +1723,9 @@
                 ],
                 "category": "time_manipulation"
             }
+        ],
+        "contract_names": [
+            "EtherLotto"
         ]
     },
     {
@@ -1478,6 +1740,9 @@
                 ],
                 "category": "time_manipulation"
             }
+        ],
+        "contract_names": [
+            "Governmental"
         ]
     },
     {
@@ -1498,6 +1763,9 @@
                 ],
                 "category": "time_manipulation"
             }
+        ],
+        "contract_names": [
+            "lottopollo"
         ]
     },
     {
@@ -1518,6 +1786,9 @@
                 ],
                 "category": "time_manipulation"
             }
+        ],
+        "contract_names": [
+            "Roulette"
         ]
     },
     {
@@ -1532,6 +1803,9 @@
                 ],
                 "category": "time_manipulation"
             }
+        ],
+        "contract_names": [
+            "TimedCrowdsale"
         ]
     },
     {
@@ -1552,6 +1826,9 @@
                 ],
                 "category": "unchecked_low_level_calls"
             }
+        ],
+        "contract_names": [
+            "PoCGame"
         ]
     },
     {
@@ -1566,6 +1843,9 @@
                 ],
                 "category": "unchecked_low_level_calls"
             }
+        ],
+        "contract_names": [
+            "Caller"
         ]
     },
     {
@@ -1586,6 +1866,9 @@
                 ],
                 "category": "unchecked_low_level_calls"
             }
+        ],
+        "contract_names": [
+            "daoPOLSKAtokens"
         ]
     },
     {
@@ -1600,6 +1883,9 @@
                 ],
                 "category": "unchecked_low_level_calls"
             }
+        ],
+        "contract_names": [
+            "demo"
         ]
     },
     {
@@ -1620,6 +1906,10 @@
                 ],
                 "category": "unchecked_low_level_calls"
             }
+        ],
+        "contract_names": [
+            "Token",
+            "TokenBank"
         ]
     },
     {
@@ -1640,6 +1930,10 @@
                 ],
                 "category": "unchecked_low_level_calls"
             }
+        ],
+        "contract_names": [
+            "Token",
+            "TokenBank"
         ]
     },
     {
@@ -1654,6 +1948,9 @@
                 ],
                 "category": "unchecked_low_level_calls"
             }
+        ],
+        "contract_names": [
+            "MultiplicatorX4"
         ]
     },
     {
@@ -1668,6 +1965,9 @@
                 ],
                 "category": "unchecked_low_level_calls"
             }
+        ],
+        "contract_names": [
+            "WhaleGiveaway2"
         ]
     },
     {
@@ -1682,6 +1982,9 @@
                 ],
                 "category": "unchecked_low_level_calls"
             }
+        ],
+        "contract_names": [
+            "airdrop"
         ]
     },
     {
@@ -1696,6 +1999,9 @@
                 ],
                 "category": "unchecked_low_level_calls"
             }
+        ],
+        "contract_names": [
+            "EBU"
         ]
     },
     {
@@ -1710,6 +2016,9 @@
                 ],
                 "category": "unchecked_low_level_calls"
             }
+        ],
+        "contract_names": [
+            "airPort"
         ]
     },
     {
@@ -1724,6 +2033,9 @@
                 ],
                 "category": "unchecked_low_level_calls"
             }
+        ],
+        "contract_names": [
+            "Centra4"
         ]
     },
     {
@@ -1738,6 +2050,9 @@
                 ],
                 "category": "unchecked_low_level_calls"
             }
+        ],
+        "contract_names": [
+            "EtherGet"
         ]
     },
     {
@@ -1752,6 +2067,9 @@
                 ],
                 "category": "unchecked_low_level_calls"
             }
+        ],
+        "contract_names": [
+            "MultiplicatorX3"
         ]
     },
     {
@@ -1766,6 +2084,9 @@
                 ],
                 "category": "unchecked_low_level_calls"
             }
+        ],
+        "contract_names": [
+            "SimpleWallet"
         ]
     },
     {
@@ -1780,6 +2101,9 @@
                 ],
                 "category": "unchecked_low_level_calls"
             }
+        ],
+        "contract_names": [
+            "TokenBank"
         ]
     },
     {
@@ -1806,6 +2130,11 @@
                 ],
                 "category": "unchecked_low_level_calls"
             }
+        ],
+        "contract_names": [
+            "PandaCore",
+            "PandaBreeding",
+            "ClockAuction"
         ]
     },
     {
@@ -1820,6 +2149,9 @@
                 ],
                 "category": "unchecked_low_level_calls"
             }
+        ],
+        "contract_names": [
+            "HomeyJar"
         ]
     },
     {
@@ -1834,6 +2166,9 @@
                 ],
                 "category": "unchecked_low_level_calls"
             }
+        ],
+        "contract_names": [
+            "WhaleGiveaway1"
         ]
     },
     {
@@ -1848,6 +2183,9 @@
                 ],
                 "category": "unchecked_low_level_calls"
             }
+        ],
+        "contract_names": [
+            "WhaleGiveaway1"
         ]
     },
     {
@@ -1868,6 +2206,9 @@
                 ],
                 "category": "unchecked_low_level_calls"
             }
+        ],
+        "contract_names": [
+            "PoCGame"
         ]
     },
     {
@@ -1882,6 +2223,9 @@
                 ],
                 "category": "unchecked_low_level_calls"
             }
+        ],
+        "contract_names": [
+            "Pie"
         ]
     },
     {
@@ -1896,6 +2240,9 @@
                 ],
                 "category": "unchecked_low_level_calls"
             }
+        ],
+        "contract_names": [
+            "Owned"
         ]
     },
     {
@@ -1928,6 +2275,9 @@
                 ],
                 "category": "unchecked_low_level_calls"
             }
+        ],
+        "contract_names": [
+            "TownCrier"
         ]
     },
     {
@@ -1948,6 +2298,10 @@
                 ],
                 "category": "unchecked_low_level_calls"
             }
+        ],
+        "contract_names": [
+            "Token",
+            "TokenBank"
         ]
     },
     {
@@ -1962,6 +2316,9 @@
                 ],
                 "category": "unchecked_low_level_calls"
             }
+        ],
+        "contract_names": [
+            "Owned"
         ]
     },
     {
@@ -1982,6 +2339,9 @@
                 ],
                 "category": "unchecked_low_level_calls"
             }
+        ],
+        "contract_names": [
+            "Delta"
         ]
     },
     {
@@ -1996,6 +2356,9 @@
                 ],
                 "category": "unchecked_low_level_calls"
             }
+        ],
+        "contract_names": [
+            "AirDropContract"
         ]
     },
     {
@@ -2010,6 +2373,9 @@
                 ],
                 "category": "unchecked_low_level_calls"
             }
+        ],
+        "contract_names": [
+            "EBU"
         ]
     },
     {
@@ -2048,6 +2414,10 @@
                 ],
                 "category": "unchecked_low_level_calls"
             }
+        ],
+        "contract_names": [
+            "Splitter",
+            "Puppet"
         ]
     },
     {
@@ -2062,6 +2432,9 @@
                 ],
                 "category": "unchecked_low_level_calls"
             }
+        ],
+        "contract_names": [
+            "Proxy"
         ]
     },
     {
@@ -2076,6 +2449,9 @@
                 ],
                 "category": "unchecked_low_level_calls"
             }
+        ],
+        "contract_names": [
+            "SimpleWallet"
         ]
     },
     {
@@ -2102,6 +2478,9 @@
                 ],
                 "category": "unchecked_low_level_calls"
             }
+        ],
+        "contract_names": [
+            "DrainMe"
         ]
     },
     {
@@ -2116,6 +2495,9 @@
                 ],
                 "category": "unchecked_low_level_calls"
             }
+        ],
+        "contract_names": [
+            "keepMyEther"
         ]
     },
     {
@@ -2130,6 +2512,9 @@
                 ],
                 "category": "unchecked_low_level_calls"
             }
+        ],
+        "contract_names": [
+            "Proxy"
         ]
     },
     {
@@ -2144,6 +2529,9 @@
                 ],
                 "category": "unchecked_low_level_calls"
             }
+        ],
+        "contract_names": [
+            "Proxy"
         ]
     },
     {
@@ -2158,6 +2546,9 @@
                 ],
                 "category": "unchecked_low_level_calls"
             }
+        ],
+        "contract_names": [
+            "Pie"
         ]
     },
     {
@@ -2172,6 +2563,9 @@
                 ],
                 "category": "unchecked_low_level_calls"
             }
+        ],
+        "contract_names": [
+            "demo"
         ]
     },
     {
@@ -2186,6 +2580,9 @@
                 ],
                 "category": "unchecked_low_level_calls"
             }
+        ],
+        "contract_names": [
+            "FreeEth"
         ]
     },
     {
@@ -2200,6 +2597,9 @@
                 ],
                 "category": "unchecked_low_level_calls"
             }
+        ],
+        "contract_names": [
+            "FiftyFlip"
         ]
     },
     {
@@ -2214,6 +2614,9 @@
                 ],
                 "category": "unchecked_low_level_calls"
             }
+        ],
+        "contract_names": [
+            "Honey"
         ]
     },
     {
@@ -2228,6 +2631,9 @@
                 ],
                 "category": "unchecked_low_level_calls"
             }
+        ],
+        "contract_names": [
+            "Freebie"
         ]
     },
     {
@@ -2242,6 +2648,9 @@
                 ],
                 "category": "unchecked_low_level_calls"
             }
+        ],
+        "contract_names": [
+            "airDrop"
         ]
     },
     {
@@ -2256,6 +2665,9 @@
                 ],
                 "category": "unchecked_low_level_calls"
             }
+        ],
+        "contract_names": [
+            "Owned"
         ]
     },
     {
@@ -2270,6 +2682,9 @@
                 ],
                 "category": "unchecked_low_level_calls"
             }
+        ],
+        "contract_names": [
+            "RealOldFuckMaker"
         ]
     },
     {
@@ -2284,6 +2699,9 @@
                 ],
                 "category": "unchecked_low_level_calls"
             }
+        ],
+        "contract_names": [
+            "B"
         ]
     },
     {
@@ -2298,6 +2716,9 @@
                 ],
                 "category": "unchecked_low_level_calls"
             }
+        ],
+        "contract_names": [
+            "WhaleGiveaway2"
         ]
     },
     {
@@ -2318,6 +2739,9 @@
                 ],
                 "category": "unchecked_low_level_calls"
             }
+        ],
+        "contract_names": [
+            "Lotto"
         ]
     },
     {
@@ -2350,6 +2774,9 @@
                 ],
                 "category": "unchecked_low_level_calls"
             }
+        ],
+        "contract_names": [
+            "KingOfTheEtherThrone"
         ]
     },
     {
@@ -2370,6 +2797,9 @@
                 ],
                 "category": "unchecked_low_level_calls"
             }
+        ],
+        "contract_names": [
+            "Lotto"
         ]
     },
     {
@@ -2384,6 +2814,9 @@
                 ],
                 "category": "unchecked_low_level_calls"
             }
+        ],
+        "contract_names": [
+            "SendBack"
         ]
     },
     {
@@ -2398,6 +2831,9 @@
                 ],
                 "category": "unchecked_low_level_calls"
             }
+        ],
+        "contract_names": [
+            "ReturnValue"
         ]
     }
 ]
