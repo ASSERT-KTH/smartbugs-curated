@@ -4,7 +4,6 @@
  * @vulnerable_at_lines: 38
  */
 
-pragma solidity ^0.4.23;
 
 /**
  * @title MultiOwnable

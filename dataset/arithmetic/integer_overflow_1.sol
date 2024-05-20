@@ -4,7 +4,6 @@
  * @vulnerable_at_lines: 14
  */
 
- pragma solidity ^0.4.15;
 
  contract Overflow {
      uint private sellerBalance=0;

@@ -4,7 +4,6 @@
  * @vulnerable_at_lines: 29
  */
 
- pragma solidity ^0.4.18;
 
 contract MultiplicatorX4
 {

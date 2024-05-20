@@ -9,7 +9,6 @@
 // 0.02 to play
 
 
-pragma solidity ^0.4.23;
 
 contract DrainMe {
 

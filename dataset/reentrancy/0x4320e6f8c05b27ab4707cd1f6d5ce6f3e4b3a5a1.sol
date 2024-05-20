@@ -5,7 +5,6 @@
  * @vulnerable_at_lines: 55
  */
 
-pragma solidity ^0.4.19;
 
 contract ACCURAL_DEPOSIT
 {

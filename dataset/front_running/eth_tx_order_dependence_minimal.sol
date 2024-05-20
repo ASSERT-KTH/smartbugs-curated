@@ -4,7 +4,6 @@
  * @vulnerable_at_lines: 23,31
  */
 
-pragma solidity ^0.4.16;
 
 contract EthTxOrderDependenceMinimal {
     address public owner;

@@ -4,7 +4,6 @@
  * @vulnerable_at_lines: 52
  */
 
-pragma solidity ^0.4.19;
 
 contract PrivateDeposit
 {

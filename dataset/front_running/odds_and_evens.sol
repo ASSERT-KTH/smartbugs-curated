@@ -4,7 +4,6 @@
  * @vulnerable_at_lines: 25,28
  */
 
-pragma solidity ^0.4.2;
 
 contract OddsAndEvens{
 

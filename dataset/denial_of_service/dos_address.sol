@@ -4,7 +4,6 @@
  * @vulnerable_at_lines: 16,17,18
  */
 
-pragma solidity ^0.4.25;
 
 contract DosGas {
 

@@ -4,7 +4,6 @@
  * @vulnerable_at_lines: 20
  */
 
-pragma solidity ^0.4.24;
 
 contract Missing{
     address private owner;

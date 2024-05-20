@@ -4,7 +4,6 @@
  * @vulnerable_at_lines: 19
  */
 
-pragma solidity ^0.4.2;
 
 contract SimpleDAO {
   mapping (address => uint) public credit;

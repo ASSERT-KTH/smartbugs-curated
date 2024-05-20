@@ -4,7 +4,6 @@
  * @vulnerable_at_lines: 264
  */
 
-pragma solidity ^0.4.16;
 
 /**
  * @title SafeMath

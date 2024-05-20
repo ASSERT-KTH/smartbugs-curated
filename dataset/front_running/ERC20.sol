@@ -4,7 +4,6 @@
  * @vulnerable_at_lines: 110,113
  */
 
-pragma solidity ^0.4.24;
 
 /** Taken from the OpenZeppelin github
  * @title SafeMath
