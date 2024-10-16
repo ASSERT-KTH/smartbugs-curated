@@ -4,14 +4,14 @@
  * @vulnerable_at_lines: 20,22
  */
 
- pragma solidity ^0.4.18;
+ pragma solidity ^0.8.0;
 
  contract Token {
 
    mapping(address => uint) balances;
    uint public totalSupply;
 
-   function Token(uint _initialSupply) {
+   constructor(uint _initialSupply) {
      balances[msg.sender] = totalSupply = _initialSupply;
    }
 
@@ -24,7 +24,7 @@
      return true;
    }
 
-   function balanceOf(address _owner) public constant returns (uint balance) {
+   function balanceOf(address _owner) public view returns (uint balance) {
      return balances[_owner];
    }
  }
