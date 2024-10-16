@@ -4,12 +4,12 @@
  * @vulnerable_at_lines: 14
  */
 
- pragma solidity ^0.4.15;
+ pragma solidity ^0.8.0;
 
  contract Overflow {
      uint private sellerBalance=0;
 
-     function add(uint value) returns (bool){
+     function add(uint value) public returns (bool){
          // <yes> <report> ARITHMETIC
          sellerBalance += value; // possible overflow
 
